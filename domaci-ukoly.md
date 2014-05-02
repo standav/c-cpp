@@ -40,9 +40,13 @@ Napište program, který bude provádět základní maticové operace s daty ulo
 Textový soubor má následující strukturu (matice A):
 
 A[0,0];A[0,1];......;A[0,M]
+
 A[1,0];..................;A[1,M]
+
 ....
+
 ....
+
 A[N,0];..................;A[N,M]
 
 Program načte soubor (v ideálním případě uživatel zadá název souboru a případně i zvolí oddělovací znak) nebo více, podle plánované aplikace. Data se vloží do dynamicky alokovaného pole a provede se implementovaná operace; volba operace je celkem libovolná, nabízí se výpočet determinantu, násobení matic, atd. Výsledek stačí vytisknout na obrazovku.
