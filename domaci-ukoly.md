@@ -1,5 +1,6 @@
-1. domácí úkol
-==============
+#Domácí úkoly
+
+##1. domácí úkol
 
 Napište program, který načte datový soubor obsahující předem neznámý počet reálných čísel seřazených tak, že na každém řádku souboru je právě jedno číslo. Čísla načtěte do dynamicky alokovaného pole a proveďte jednoduchou interpolaci číselné řady.
 
@@ -13,8 +14,7 @@ Příklad interpolace:
 
 Vypočtená data uložte do (jiného) souboru.
 
-2. domácí úkol
-==============
+##2. domácí úkol
 
 Napište program, který implemetuje datovou strukturu zásobník (paměť typu LIFO).
 
@@ -32,19 +32,22 @@ Implementujte funkce:
 Program by měl obsahovat ukázku funkce.
 
 
-3- domácí úkol
-==============
+##3. domácí úkol
 
 Napište program, který bude provádět základní maticové operace s daty uloženými v textovém souboru.
 
 Textový soubor má následující strukturu (matice A):
+```
+A[0,0];A[0,1];...;A[0,M]
 
-A[0,0];A[0,1];......;A[0,M]
-A[1,0];..................;A[1,M]
-....
-....
-A[N,0];..................;A[N,M]
+A[1,0];..........;A[1,M]
 
+....
+
+....
+
+A[N,0];..........;A[N,M]
+```
 Program načte soubor (v ideálním případě uživatel zadá název souboru a případně i zvolí oddělovací znak) nebo více, podle plánované aplikace. Data se vloží do dynamicky alokovaného pole a provede se implementovaná operace; volba operace je celkem libovolná, nabízí se výpočet determinantu, násobení matic, atd. Výsledek stačí vytisknout na obrazovku.
 
 Možným rozšířením je práce s daty uloženými v binárním souboru.
