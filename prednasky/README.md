@@ -4,6 +4,6 @@ Obsahem repozitáře jsou vzorové úlohy z úvodních třech přednášek před
 
 ##Obsah repozitáře
 
-1. [1. přednáška](/standav/c-cpp/prednasky/01) | [Prezentace](http://goo.gl/kkUucJ)
+[1. přednáška](/standav/c-cpp/prednasky/01) | [Prezentace](http://goo.gl/kkUucJ)
 
 
