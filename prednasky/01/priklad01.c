@@ -1,6 +1,7 @@
 /*
   zpracovani zdrojoveho kodu preprocesorem
-  gcc -E priklad0.c 
+
+  gcc -E priklad01.c 
 */
 
 /*

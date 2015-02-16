@@ -1,6 +1,7 @@
 /*
   zpracovani zdrojoveho kodu preprocesorem
-  gcc -E priklad4.c 
+
+  gcc -E priklad05.c 
 */
 
 #define	SQR(x) ((x)*(x))

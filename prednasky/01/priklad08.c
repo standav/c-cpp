@@ -6,7 +6,7 @@
 
   Definice je možná pomocí parametru překladače
 
-  gcc debug1.c -DDEBUG -o debug1
+  gcc priklad08.c -DDEBUG -o debug
 
 */
 

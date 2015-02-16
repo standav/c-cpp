@@ -1,6 +1,7 @@
 /*
   zpracovani zdrojoveho kodu preprocesorem
-  gcc -E priklad1.c 
+
+  gcc -E priklad02.c 
 */
 
 #define	MAX	100

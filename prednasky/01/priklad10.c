@@ -1,6 +1,7 @@
 /*
   zpracovani zdrojoveho kodu preprocesorem
-  gcc -E priklad6.c 
+
+  gcc -E priklad10.c 
 */
 
 #define printerror(n)	printf (#n "\n")

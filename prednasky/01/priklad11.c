@@ -1,6 +1,7 @@
 /*
   oddeleny preklad
-  gcc priklad7.c definice1.c 
+
+  gcc priklad11.c definice.c -Wall 
 */
 
 #include <stdio.h>

@@ -1,6 +1,7 @@
 /*
   zpracovani zdrojoveho kodu preprocesorem, standardni makra
-  gcc -E priklad5.c 
+ 
+  gcc -E priklad06.c 
 */
 
 __DATE__
