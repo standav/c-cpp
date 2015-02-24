@@ -5,5 +5,6 @@ Obsahem repozitáře jsou vzorové úlohy z úvodních třech přednášek před
 ##Obsah repozitáře
 
 [1. přednáška](https://github.com/standav/c-cpp/tree/master/prednasky/01) | [Prezentace](http://goo.gl/kkUucJ)
+[2. přednáška]() | [Prezentace](http://goo.gl/BRCDUX)
 
 
