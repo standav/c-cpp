@@ -4,7 +4,7 @@
   gcc -E priklad04.c 
 */
 
-#define	SQR (x) ((x)*(x))
+#define	SQR(x) ((x)*(x))
 
 int sqr (x) {return x*x}; 
 

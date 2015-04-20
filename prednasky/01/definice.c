@@ -1,2 +1,2 @@
-static int local = 10;
-int global = 5;
+int static local = 10;
+int extern global = 5;

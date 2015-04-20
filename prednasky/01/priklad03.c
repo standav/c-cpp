@@ -4,8 +4,8 @@
   gcc -E priklad03.c 
 */
 
-#define	SQR(x)	(x*x)
+#define	SQR (x)	(x*x)
 
 y = SQR(n);
 
-x = SQR(ahoj);
+x = SQR("ahoj");
