@@ -8,4 +8,6 @@ Obsahem repozitáře jsou vzorové úlohy z úvodních třech přednášek před
 
 [2. přednáška]() | [Prezentace](http://goo.gl/BRCDUX)
 
+[3. přednáška]() | [Prezentace](https://goo.gl/HXiCAF)
+
 
